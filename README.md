@@ -17,15 +17,44 @@ An interactive, command-line interface (CLI) application built using **Python** 
 
 ---
 
-## 🖥️ Screenshots
+## 🖼️ Application Screenshots
 
-| Login Screen | Main Menu |
+### 1. Authentication & System Access
+| Login Successful | Login Failed |
 | :---: | :---: |
-| ![Login](screenshots/login.png) | ![Main Menu](screenshots/main_menu.png) |
+| ![Login Successful](screenshots/login_successful.PNG) | ![Login Failed](screenshots/login_failed.PNG) |
 
-| Order Placement & Billing | Inventory Overview |
+### 2. Adding Products & Inventory View
+| Adding New Item | Added Item Displayed |
 | :---: | :---: |
-| ![Order Placement](screenshots/order_placement.png) | ![Display Items](screenshots/display_items.png) |
+| ![Adding New Item](screenshots/adding_newitem.PNG) | ![Added Item Displayed](screenshots/added_newitem_displayed.PNG) |
+
+### 3. Product Search & Displaying Records
+| Search for an Item | Displaying All Records |
+| :---: | :---: |
+| ![Search Item](screenshots/search_for_an_item.PNG) | ![Display All Records](screenshots/displaying_all_records.PNG) |
+
+### 4. Order Placement & Automated Receipt
+| Order Placement (Part 1) | Order Placement (Part 2) |
+| :---: | :---: |
+| ![Order Placement 1](screenshots/order_placement1.PNG) | ![Order Placement 2](screenshots/order_placement2.PNG) |
+
+| Generated Invoice |
+| :---: |
+| ![Bill Generated](screenshots/bill_generated.PNG) |
+
+### 5. Inventory Updates & Exit
+| Updating Quantity | Updated Quantity Displayed |
+| :---: | :---: |
+| ![Updating Quantity](screenshots/updating_quantity.PNG) | ![Updated Quantity Displayed](screenshots/updated_quantity_displayed.PNG) |
+
+| Updating Price | Updated Price Displayed |
+| :---: | :---: |
+| ![Updating Price](screenshots/updating_price.PNG) | ![Updated Price Displayed](screenshots/updated_price_displayed.PNG) |
+
+| System Exit |
+| :---: |
+| ![Exiting Program](screenshots/exiting_program.PNG) |
 
 ---
 
