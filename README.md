@@ -119,6 +119,15 @@ The system manages a table called `Products` within the `BMS` database:
 | `Price` | `INT` | - | Unit Price in INR |
 
 ---
+## 🗄️ Database Architecture
+
+The application requires the `BMS` database and `Products` table. While the Python script automatically initializes this setup upon launch, you can also manually initialize the database schema using the provided SQL script:
+
+* **SQL Script Location:** [`database/schema.sql`](database/schema.sql)
+
+To import the schema directly into MySQL via command line:
+```bash
+mysql -u root -p < database/schema.sql
 
 ## 📜 License
 
